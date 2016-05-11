@@ -1,3 +1,6 @@
+[![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg?maxAge=2592000)]()
+[![Maintenance](https://img.shields.io/maintenance/yes/2016.svg?maxAge=2592000)]()
+[![GitHub tag](https://img.shields.io/github/tag/strongloop/express.svg?maxAge=2592000?style=flat-square)]()
 <h1>What & Why?</h1>
 <p>AutoParse is a simple wrapper to .NET's <i>TryParse</i> methods that are found on many of the standard types.  It takes away the need to use the <i>out</i> parameters and also provides an overload for custom parsing.</p>
 <br/>
